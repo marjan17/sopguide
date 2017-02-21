@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sop>
+    <intro> About the VT Summer and Winter Session “How-To” Guide </intro> 
+    <sessions>
+          <session>
+              <url>Summer.html</url>
+              <sessiontitle>Summer sessions at Virginia Tech </sessiontitle>
+              <welcom>This is summer</welcom>
+              <tasks>
+                  <task>
+                      <tasktitle></tasktitle>
+                      <staging></staging>
+                      <ingredients>
+                          <ingredient>
+                              <Item> A computer</Item>
+                          </ingredient>
+                              <Item> A cell phone</Item>
+                      </ingredients>
+                      <steps>
+                          <step>
+                              <action> Do this </action>
+                              <note> Additional Information</note>
+                          </step>
+                      </steps>
+                      
+                  </task>
+              </tasks>
+          </session>  
+    </sessions>
+    </intro>
+    
+    
+    
+</sop>
+</sop> 
+
